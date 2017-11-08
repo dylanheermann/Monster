@@ -1,0 +1,209 @@
+.bluespiral{
+	width: 1920px;
+	height: 1920px;
+    background-image: url("blue-cool.png");
+}
+
+/*.wrapper{
+	margin: 5px;
+}
+
+.face{
+	width:75px;
+	height:75px;
+	border: solid 2px black;
+	background-color: yellow;
+	border-radius: 50px;
+}
+
+.lefteye{
+	width:6px;
+	height: 6px;
+	border: solid 1px black;
+	border-radius: 3px;
+	z-index: 1;
+	position: relative;
+	left:32px;
+	top:26px;
+	background-color: black;
+}
+
+.righteye{
+	width:6px;
+	height: 6px;
+	border: solid 1px black;
+	border-radius: 3px;
+	z-index: 1;
+	position: relative;
+	left:54px;
+	top:18px;
+	background-color: black;
+}
+
+.mouth{
+	width: 10px;
+	height: 10px;
+	border: solid 1px black;
+	border-radius: 0px 0px 45px 45px;
+	margin:16px;
+	position: relative;
+	top:1em;
+	left:1em;
+	background-color: black;
+}*/
+
+.fin{
+	position: absolute;
+	width: 200px;
+	height: 200px;
+	border: solid 20px red;
+	border-radius: 20px 200px 20px 20px;
+	background-color: red;
+	top:0px;
+	left:500px;
+}
+
+.water{
+	border-image:
+	position: absolute;
+	top: 200px;
+	opacity: 70%
+}
+/*later*/
+.blood{
+	/*border:solid 50px red;*/
+	position: absolute;
+	width: 50px;
+	height: 50px;
+	background-color: red;
+	top:1000px;
+	left:500px;
+	border: dashed 10px black;
+	border-radius: 10px 20px 20px 20px;
+
+
+
+
+}
+
+/*.teeth{
+	position: absolute;
+	width:10px;
+	height: 10px;
+	background-color: 
+*/
+}
+
+.mouth{
+
+}
+
+.lefteye{
+
+}
+
+.righteye{
+
+}
+
+.nose
+{
+
+
+}
+
+.lefteyebrow{
+
+}
+
+.righteyebrow{
+
+}
+
+.deadthing{
+
+}
+
+.tail{
+
+}
+
+.monsterBody{
+	position: absolute;
+	width: 400px;
+	height: 125px;
+	background-color: black;
+	top: 225px;
+	left: 400px;
+	border:solid 40px black;
+	border-radius: 60px 60px 120px 120px
+
+
+
+
+}
+
+.waves{
+	/*This is for the box.*/
+	position:absolute;
+	width: 36px;
+	height: 100px;
+	background-color: green;
+
+	/*This is the position on the html document.*/
+	top:250px;
+	left:400px;
+}
+/*#waves-1
+{
+	left:300px;
+}
+
+#waves-2
+{
+
+	left:350px;
+}
+*/
+#waves-3
+{
+
+	left:400px;
+}
+
+#waves-4
+{
+
+	left:450px;
+}
+
+#waves-5
+{
+
+	left:500px;
+}
+
+/*Skips to right side of body*/
+#waves-6
+{
+	left:700px;
+}
+
+#waves-7
+{
+	left:750px;
+}
+
+#waves-8
+{
+	left:800px;
+}
+
+
+
+.head{
+
+}
+
+
+}
